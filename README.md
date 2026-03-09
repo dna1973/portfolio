@@ -1,6 +1,6 @@
 # portfolio
 
-Um repositório de portfólio que centraliza e exibe diversos projetos desenvolvidos pelo autor, abrangendo desde bots e guias interativos até sistemas de auditoria.
+Um repositório centralizador que atua como portfólio de desenvolvedor, exibindo uma coleção selecionada de projetos hospedados no GitHub.
 
 ## 🚀 Demo
 
@@ -8,7 +8,7 @@ _Link não disponível._
 
 ## 🛠 Tecnologias
 
-`Markdown` · `GitHub Actions (implícito pelo gerador automático)` · `GitHub API`
+`Markdown` · `GitHub Actions (implícito pelo gerador automático)` · `GitHub Portfolio IA`
 
 ## 📸 Screenshots
 
